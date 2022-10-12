@@ -87,7 +87,6 @@
         android:layout_marginTop="32dp"
         android:background="@drawable/background_botao"
 
-        android:onClick="Cadastro"
         android:shadowColor="#F4EFEF"
         android:text="Cadastrar"
         android:textColor="@color/white"
